@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+}
+
+.d-1 {
+    display: flex;
+}
+
+.s1 {
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    background-color: blue;
+    width: 300px;
+}
+
+.s2 {
+    padding: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(96, 147, 192);
+    color: white;
+    width: 300px;
+}
+
+img {
+    margin-top: 20px;
+    width: 300px;
+}
